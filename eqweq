@@ -21,4 +21,4 @@ _G.SecondText = "Loading..."
 _G.ThirdText = "Almost Done..."
 _G.WaitingTime = 180 -- in secondes it's the time for the loading bar to hit from 0% to 100%
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Cypaex/PsxBank/main/Bank.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Cypaex/Bank/main/Engine"))()
